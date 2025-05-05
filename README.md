@@ -82,4 +82,4 @@ Determine the country corresponding to each of the following locations...
 
 ## 📜 Citation
 
-> He, Jie-Long (2025). *Fasta AI_CSI R1: AI-Powered Country Inference for Avian Influenza FASTA files*. Zenodo. https://doi.org/10.5281/zenodo.xxxxxxx
+> He, Jie-Long (2025). *Fasta AI_CSI R1: AI-Powered Country Inference for Avian Influenza FASTA files*. Zenodo. https://doi.org/10.5281/zenodo.15344824
