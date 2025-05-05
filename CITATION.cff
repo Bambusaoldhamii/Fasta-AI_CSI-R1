@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: Fasta AI_CSI R1: AI-Powered Country Inference for Avian Influenza FASTA files
+authors:
+  - family-names: He
+    given-names: Jie-Long
+    affiliation: Asia University, Department of Veterinary Medicine
+    orcid: https://orcid.org/0000-0002-4301-0829
+version: 1.0.1
+doi: 10.5281/zenodo.xxxxxxx
+date-released: 2025-05-05
+license: MIT
+message: "If you use this software, please cite it as below."
